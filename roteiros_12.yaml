@@ -1,0 +1,14 @@
+roteiro:
+  atenas:
+    prompt: >
+      Liste 3 pontos turísticos famosos de Atenas, inclua o número anual de visitantes e forneça uma
+      breve descrição para cada ponto. Retorne o resultado em formato JSON estruturado, com as
+      descrições e número de visitantes, nesse formato, sem o ```json:
+      {"pontos_turisticos": [{"nome": nome,"visitantes_anuais": visitantes,"descricao": descricao}]}, não me retorna o ```json no formato final.
+      
+  roma:
+    prompt: >
+      Liste 3 pontos turísticos famosos de Roma, inclua o número anual de visitantes e forneça uma
+      breve descrição para cada ponto. Retorne o resultado em formato JSON estruturado, com as
+      descrições e número de visitantes, nesse formato, sem o ```json:
+      {"pontos_turisticos": [{"nome": nome,"visitantes_anuais": visitantes,"descricao": descricao}]}, não me retorna o ```json no formato final.

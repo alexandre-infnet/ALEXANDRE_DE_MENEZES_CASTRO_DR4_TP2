@@ -1,0 +1,10 @@
+roteiro:
+  atenas:
+    prompt: >
+      Liste 3 pontos turísticos famosos de Atenas, inclua o número anual
+      de visitantes e forneça uma breve descrição para cada ponto.
+      
+  roma:
+    prompt: >
+      Liste 3 pontos turísticos famosos de Roma, inclua o número anual
+      de visitantes e forneça uma breve descrição para cada ponto.
